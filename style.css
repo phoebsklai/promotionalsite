@@ -1,0 +1,38 @@
+body{
+  background-image: url('img/paper.jpeg');
+}
+
+h1{
+  font-family:"Impact";
+  color:black;
+  font-size :90px;
+  text-align:center;
+}
+
+p{
+  color:black;
+  font-size: 70px;
+  text-align:center;
+}
+
+h3{
+
+  font-family: courier new;
+  color:black
+  font-size:60px;
+  text-align:center;
+}
+
+
+.thin_center{
+  margin-left : 26%;
+  }
+.center{
+  margin-left : 14%
+}
+.lcenter{
+  margin-left : 30%
+}
+.ycenter{
+  margin-left : 1%
+}
